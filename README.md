@@ -11,7 +11,7 @@ I am a third-year computer science student at Georgia State University, passiona
 Check out my [coding portfolio!](irvinpelcaztreortega.netlify.app/)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/irvin-pelcaztre-ortega/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-pelcaztre-ortega/)
 
 # 💻 Tech Stack:
 Languages: 
