@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋 I'm Irvin Pelcaztre-Ortega </h1>
+### Hi 👋 I'm Irvin Pelcaztre-Ortega
 
-# 💫 About Me:
-I am a third-year computer science student at Georgia State University, passionate about exploring the realms of coding, machine learning, and building applications.
+💫 **About Me:**
 
-## 🚀 What I'm Up To
+- I am a third-year computer science student at Georgia State University, passionate about exploring the realms of coding, machine learning, and building applications.
+
+🚀 **What I'm Up To**
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building MERN stack or Full stack applications.
 
 Check out my [coding portfolio!](irvinpelcaztreortega.netlify.app/)
 
-## 🌐 Connect with me:
+🌐 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-pelcaztre-ortega/)
 
-# 💻 Tech Stack:
+💻 T**ech Stack:**
+
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
