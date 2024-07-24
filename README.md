@@ -9,7 +9,7 @@
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building MERN stack or Full stack applications.
 
-Check out my <a href="https://irvinpelcaztreortega.netlify.app/" target="_blank">coding portfolio!</a>
+Check out my <a href="https://portfolio-xi-three-23.vercel.app/" target="_blank">coding portfolio!</a>
 
 🌐 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-pelcaztre-ortega/)
