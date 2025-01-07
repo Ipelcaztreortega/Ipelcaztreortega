@@ -2,12 +2,10 @@
 
 💫 **About Me:**
 
-- Hi, I’m Irvin!
-
 - I’m a graduate Computer Science student at Georgia Tech, specializing in Computing Systems, and I’m on track to graduate in Fall 2026.
 
 - I have extensive experience with full-stack technologies and have served as a team lead in a startup environment. I’m naturally curious, highly adaptable, and quick to master new skills. I’m seeking full-time Software Engineering roles that challenge me while fostering continuous growth and learning.
-- 
+
 🚀 **What I'm Up To**
 
 - 💻 Probabliy building a Full-Stack project or working on a Startup.
