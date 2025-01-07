@@ -2,11 +2,14 @@
 
 💫 **About Me:**
 
-- I am a senior computer science student at Georgia State University, passionate about exploring the realms of coding, machine learning, and full-stack building applications.
-- My journey has led me to going further and working on my Master's at Georgia Institute of Technology
+- Hi, I’m Irvin!
+
+- I’m a graduate Computer Science student at Georgia Tech, specializing in Computing Systems, and I’m on track to graduate in Fall 2026.
+
+- I have extensive experience with full-stack technologies and have served as a team lead in a startup environment. I’m naturally curious, highly adaptable, and quick to master new skills. I’m seeking full-time Software Engineering roles that challenge me while fostering continuous growth and learning.
+- 
 🚀 **What I'm Up To**
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Probabliy building a Full-Stack project or working on a Startup.
 
 Check out my <a href="https://www.ipelcaztreortega.com/" target="_blank">coding portfolio!</a>
