@@ -4,7 +4,9 @@
 
 - I’m a graduate Computer Science student at Georgia Tech, specializing in Computing Systems, and I’m on track to graduate in Fall 2027.
 
-- I have skills in working with React, PostgreSQL, Spring, Springboot in fullstack environments. I am looking for roles in Software Engineering where I can use, 
+- Experienced in React, PostgreSQL, Spring, and Spring Boot, with a strong focus on full-stack development.
+
+- Actively seeking Software Engineering roles where I can apply and grow my skills in building scalable, impactful applications.
 
 🚀 **What I'm Up To**
 
@@ -40,15 +42,3 @@ Check out my <a href="https://www.ipelcaztreortega.com/" target="_blank">coding 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-
-
-
-
-
-
-# 💫 About Me:
-Hi 👋 I'm Irvin Pelcaztre-Ortega<br>💫 About Me:<br><br>I’m a graduate Computer Science student at Georgia Tech, specializing in Computing Systems, and I’m on track to graduate in Fall 2026.<br><br>I have extensive experience with full-stack technologies and have served as a team lead in a startup environment. I’m naturally curious, highly adaptable, and quick to master new skills. I’m seeking full-time Software Engineering roles that challenge me while fostering continuous growth and learning.<br><br>🚀 What I'm Up To<br><br>💻 Probabliy building a Full-Stack project or working on a Startup.<br>Check out my coding portfolio!<br><br>🌐 Connect with me: LinkedIn<br><br>💻 Tech Stack:
-
-
-
