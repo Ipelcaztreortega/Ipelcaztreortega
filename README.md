@@ -2,13 +2,13 @@
 
 💫 **About Me:**
 
-- I’m a graduate Computer Science student at Georgia Tech, specializing in Computing Systems, and I’m on track to graduate in Fall 2026.
+- I’m a graduate Computer Science student at Georgia Tech, specializing in Computing Systems, and I’m on track to graduate in Fall 2027.
 
-- I have extensive experience with full-stack technologies and have served as a team lead in a startup environment. I’m naturally curious, highly adaptable, and quick to master new skills. I’m seeking full-time Software Engineering roles that challenge me while fostering continuous growth and learning.
+- I have skills in working with React, PostgreSQL, Spring, Springboot in fullstack environments. I am looking for roles in Software Engineering where I can use, 
 
 🚀 **What I'm Up To**
 
-- 💻 Probabliy building a Full-Stack project or working on a Startup.
+- 💻 Probabliy building a Full-Stack project
 
 Check out my <a href="https://www.ipelcaztreortega.com/" target="_blank">coding portfolio!</a>
 
@@ -32,10 +32,23 @@ Check out my <a href="https://www.ipelcaztreortega.com/" target="_blank">coding 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-## Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
+
+
+
+
+# 💫 About Me:
+Hi 👋 I'm Irvin Pelcaztre-Ortega<br>💫 About Me:<br><br>I’m a graduate Computer Science student at Georgia Tech, specializing in Computing Systems, and I’m on track to graduate in Fall 2026.<br><br>I have extensive experience with full-stack technologies and have served as a team lead in a startup environment. I’m naturally curious, highly adaptable, and quick to master new skills. I’m seeking full-time Software Engineering roles that challenge me while fostering continuous growth and learning.<br><br>🚀 What I'm Up To<br><br>💻 Probabliy building a Full-Stack project or working on a Startup.<br>Check out my coding portfolio!<br><br>🌐 Connect with me: LinkedIn<br><br>💻 Tech Stack:
+
+
+
