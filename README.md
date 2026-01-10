@@ -7,10 +7,10 @@
 
 Check out my <a href="https://www.ipelcaztreortega.com/" target="_blank">coding portfolio!</a>
 
-🌐 **Connect with me:**
+**Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-pelcaztre-ortega/)
 
-💻 **Tech Stack:**
+**Tech Stack:**
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
