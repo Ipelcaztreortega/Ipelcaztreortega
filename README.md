@@ -5,10 +5,9 @@
 - Actively seeking Software Engineering roles.
 
 
-Check out my <a href="https://www.ipelcaztreortega.com/" target="_blank">coding portfolio!</a>
+Check out my <a href="https://www.ipelcaztreortega.org/" target="_blank">coding portfolio!</a>
 
-**Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-pelcaztre-ortega/)
+**Connect with me:**<a href="[https://www.ipelcaztreortega.org/](https://www.linkedin.com/in/irvin-pelcaztre-ortega/)" target="_blank">LinkedIn</a>
 
 **Tech Stack:**
 
