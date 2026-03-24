@@ -5,10 +5,6 @@
 - Actively seeking Software Engineering roles.
 
 
-Check out my <a href="https://www.ipelcaztreortega.org/" target="_blank">coding portfolio!</a>
-
-**Connect with me:** <a href="https://www.linkedin.com/in/irvin-pelcaztre-ortega/" target="_blank">LinkedIn</a>
-
 **Tech Stack:**
 
 ## Languages
