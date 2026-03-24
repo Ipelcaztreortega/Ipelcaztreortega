@@ -1,4 +1,4 @@
-### Hi 👋 I'm Irvin Pelcaztre-Ortega
+### Hi, I'm Irvin Pelcaztre-Ortega
 
 - I’m a graduate Computer Science student at Georgia Tech, specializing in Computing Systems, and I’m on track to graduate in Fall 2027.
 - Experienced in React, PostgreSQL, Spring, and Spring Boot, with a strong focus on full-stack development.
