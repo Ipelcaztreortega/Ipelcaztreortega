@@ -10,10 +10,10 @@ Actively seeking Software Engineering internships and full-time opportunities
 
 #### Tech Stack
 
-**Languages:** **Python**, **Java**, **SQL**, **TypeScript / JavaScript**, **HTML5**, **CSS**  
+**Languages:** Python, Java, SQL, TypeScript / JavaScript, HTML5, CSS  
 
-**Frameworks & Libraries:** **React**, **Next.js**, **Spring**, **Spring Boot**, **Node.js**, **Express.js**, **Bootstrap**  
+**Frameworks & Libraries:** React, Next.js, Spring, Spring Boot, Node.js, Express.js, Bootstrap  
 
-**Databases & Cloud:** **PostgreSQL**, **Firebase**, **Supabase**, **AWS**  
+**Databases & Cloud:** PostgreSQL, Firebase, Supabase, AWS  
 
 **DevOps & Tools:** Docker, Kubernetes, Git  
